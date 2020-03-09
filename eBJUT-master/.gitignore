@@ -1,0 +1,6 @@
+# Config File
+config.json
+
+# Jetbrains
+.idea
+back-end/api/doc/

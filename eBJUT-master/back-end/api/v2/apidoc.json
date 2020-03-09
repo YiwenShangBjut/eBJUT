@@ -1,0 +1,11 @@
+{
+  "name": "eBJUT API",
+  "version": "0.1.0",
+  "description": "eBJUT API Online Reference",
+  "title": "eBJUT API Reference",
+  "url" : "https://dev.iecho.cc/api",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
